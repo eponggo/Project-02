@@ -1,0 +1,70 @@
+.welcome{
+    font-size: 50px;
+    color: rgb(255, 0, 0); text-align: center;
+
+ }
+ .eponggo{
+    font-size: 30px;
+    color: rgb(238, 14, 14); text-align: center;
+ }
+.sl{
+    font-size: 30px;
+    color: rgb(255, 0, 0); text-align: center;
+
+}
+.name{
+    font-size: 30px;
+    color: rgb(255, 0, 0); text-align: center;
+
+}
+.Description{
+    font-size: 30px;
+    color: rgb(255, 0, 0); text-align: center;
+}
+
+
+.Example{
+    font-size: 30px;
+    color: rgb(255, 0, 0); text-align: center;
+}
+tr{
+    color: rgb(250, 248, 248);
+    font-size: 20px;
+    background-color: rgb(133, 99, 99);
+    text-align: center; 
+}
+ 
+.First{
+background-color: rgb(240, 222, 149);
+
+}
+.secound{
+    background-color: rgb(151, 197, 197);
+}
+.Third{
+    background-color: darkgoldenrod;
+}
+.four{
+    background-color: rgb(54, 45, 22);
+}
+.Five{
+    background-color: darkgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
